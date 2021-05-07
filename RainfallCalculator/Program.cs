@@ -8,6 +8,7 @@ namespace RainfallCalculator
 {
     static class Program
     {
+        /// Test - does this push to the git repository?
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
