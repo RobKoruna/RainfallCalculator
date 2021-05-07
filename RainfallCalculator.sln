@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainfallCalculator", "RainfallCalculator\RainfallCalculator.csproj", "{703D6E94-8836-41EB-8D30-4942BE9AEB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703D6E94-8836-41EB-8D30-4942BE9AEB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703D6E94-8836-41EB-8D30-4942BE9AEB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703D6E94-8836-41EB-8D30-4942BE9AEB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703D6E94-8836-41EB-8D30-4942BE9AEB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36650FD6-5ACE-4911-9859-B942B21F5163}
+	EndGlobalSection
+EndGlobal
